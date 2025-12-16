@@ -24,10 +24,10 @@ This project implements an **end-to-end fraud detection workflow** on a large-sc
 
 
 
-Credit-Card-Fraud-Detection-Workflow/
-├── main.ipynb         # Jupyter Notebook with full workflow
-├── README.md          # Project documentation
-└── requirements.txt   # Python dependencies
+**Credit-Card-Fraud-Detection-Workflow:**
+1. main.ipynb         # Jupyter Notebook with full workflow
+2. README.md          # Project documentation
+3. requirements.txt   # Python dependencies
 
 
 ---
