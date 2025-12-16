@@ -76,4 +76,22 @@ credit-card-fraud-detection/
 
 ---
 
+##How to Run
+1. **Clone the repository:**
 
+git clone https://github.com/pranavkadam27/Credit-Card-Fraud-Detection-Workflow.git
+
+
+2. **Install dependencies:**
+
+pip install -r requirements.txt
+
+
+3. **Download the dataset (Credit Card Fraud Detection 2023) from Kaggle:**
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+Save the CSV file into same directory as main.ipynb
+
+4. **Open and run the notebook:**
+
+jupyter notebook main.ipynb
