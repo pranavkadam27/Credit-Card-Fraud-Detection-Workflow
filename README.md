@@ -22,12 +22,13 @@ This project implements an **end-to-end fraud detection workflow** on a large-sc
 
 ## Repository Structure
 
+
+
+```text
 credit-card-fraud-detection/
-│
-├── main.ipynb # Jupyter Notebook with full workflow
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└──data/ # Dataset or sample subset
+├── main.ipynb          # Jupyter Notebook with full workflow
+├── README.md           # Project documentation
+└── requirements.txt    # Python dependencies
 
 
 
